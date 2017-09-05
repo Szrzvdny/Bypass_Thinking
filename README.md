@@ -3,7 +3,7 @@
 # self introduction(自我介绍):
   <br />
    
-- [Szrzvdny](http://www.inksec.cn/) :wink::cry::laughing: :yum:
+- This is my blog：[Szrzvdny](http://www.inksec.cn/) :wink::cry::laughing: :yum:
   <br />
   <br />
 Hello
