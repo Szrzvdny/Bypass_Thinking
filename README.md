@@ -13,7 +13,7 @@
 
 2017/9/06 => [Bypass SafeDog sql Attack(3)](http://www.inksec.cn/)  
 
-## Fuzz_waf Thinking
+## Fuzz_waf Thinking(客观来一杯fuzz)
 ```
 # -*- coding: utf-8 -*-
 import requests
