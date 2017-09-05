@@ -7,11 +7,15 @@
 </br> This is about safe dog bypass:wink::cry::laughing: :yum:
 </br>
 
-  - 2017/9/03 => [Bypass SafeDog sql Attack(1)](http://www.inksec.cn/)
+    2017/9/03 => [Bypass SafeDog sql Attack(1)](http://www.inksec.cn/)
 
-  - 2017/9/05 => [Bypass SafeDog sql Attack(2)](http://www.inksec.cn/)
+</br>
+
+    2017/9/05 => [Bypass SafeDog sql Attack(2)](http://www.inksec.cn/)
   
-  - 2017/9/06 => [Bypass SafeDog sql Attack(3)](http://www.inksec.cn/)  
+</br>
+  
+    2017/9/06 => [Bypass SafeDog sql Attack(3)](http://www.inksec.cn/)  
 
 ## Fuzz_waf Thinking
 ```
